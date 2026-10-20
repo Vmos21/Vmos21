@@ -11,59 +11,32 @@
 
 </div>
 
-```py
-class Vikash:
-
-    def __init__(self):
-        self.user       = "Vikash Murugesan"
-        self.handle     = "Vmos21"
-        self.role       = "Student Developer"
-        self.education  = "B.E. CSE @ PSG College of Technology"
-        self.location   = "Coimbatore, India"
-
-        self.languages  = ["C", "C++", "Python", "Java"]
-        self.hardware   = ["ESP32", "Arduino"]
-        self.tools      = ["Git", "Linux", "VS Code", "Vercel"]
-        self.interests  = ["AI/ML Internals", "Cybersecurity", "Embedded Systems"]
-
-        self.currently  = {
-            "building"  : "ConfigForge — visual JSON/YAML config editor",
-            "learning"  : "Cyber Security Essentials, DSA in C",
-            "exploring" : "Ethical hacking & hardware projects",
-        }
-
-        self.fun_fact   = "I'm writing a terminal-based world domination game in C++"
-
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something together.")
-
-
-me = Vikash()
-me.say_hi()
-
-
-```
-
 ---
 
 <h2>🖥️ Details</h2>
 
 ```
-vikash@github                                                      ***
-─────────────────────────────────────────────────               *********     *********
- 🏫 College          PSG College of Technology                  **         *****     ***
- 📚 Degree           B.E. CSE                                   **      ****          **
- 📍 Location         Coimbatore, Tamil Nadu, India              *****************
- 🏛️ Club             The Eye — Technical Team             ********* ***        ***********
-─────────────────────────────────────────────────      ***      *****   ****    **     *****
- 🖥️ Languages        C · C++ · Python · Java            ***      ****  *******   ***       ***
- 🔩 Hardware         ESP32 · Arduino                     ****   ******   ****     ***      ***
- 🛠️ Tools            Git · Linux · VS Code · Vercel             ***  ***            ***   ***        
-─────────────────────────────────────────────────               ***     ***           **              
-                                                                **       ****         **              
-                                                                ***     ** ****       **                                                              
-                                                                *********    **********                                                                
-                                                                                 ***                                 
+vikash@github
+                                            ───────────────────────────────────────────────────────────────────
+            ***                               Name                            Vikash Murugesan
+         #********    ********                GitHub                          @Vmos21
+         **        *****    ***             ───────────────────────────────────────────────────────────────────
+         **      ****        **             
+         *************       *                College  🏫                    PSG College of Technology
+    **************************                Degree   📚                    B.E. CSE
+  ****    *****              *****            Location 📍                    Coimbatore, Tamil Nadu, India
+  **      ****  ******  ***     ****        ───────────────────────────────────────────────────────────────────
+  ***     ****  ******   ***      **          Programming Languages 🖥️       C · C++ · Python · Java
+    ***  ** ***           **    ****          Hardware 🔩                    ESP32 · Arduino
+        **   ***          ***  **#            Tools 🛠️                       Git · Linux · VS Code · Vercel
+       ***    ****         **                 Normal Languages 🗣️            Tamil · English · Hindi · German
+       ***      ***        **               ───────────────────────────────────────────────────────────────────
+       ***    *** ***#     **                 Goals ⭐
+        ********    ********                  · To be a better person
+                       ***                    · Build things that can help people
+                                              · Live life like the rest
+                                              · Be something/someone that others can look upto
+                                            ───────────────────────────────────────────────────────────────────           
 ```
 ---
 
@@ -108,7 +81,5 @@ vikash@github                                                      ***
   </a>
 
   <br/><br/>
-
-  <img src="https://komarev.com/ghpvc/?username=Vmos21&style=flat-square&color=58A6FF" alt="Profile Views"/>
 
 </div>
