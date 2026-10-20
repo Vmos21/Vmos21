@@ -21,22 +21,21 @@ vikash@github
             ***                               Name                            Vikash Murugesan
          #********    ********                GitHub                          @Vmos21
          **        *****    ***             ───────────────────────────────────────────────────────────────────
-         **      ****        **             
-         *************       *                College  🏫                    PSG College of Technology
-    **************************                Degree   📚                    B.E. CSE
-  ****    *****              *****            Location 📍                    Coimbatore, Tamil Nadu, India
-  **      ****  ******  ***     ****        ───────────────────────────────────────────────────────────────────
-  ***     ****  ******   ***      **          Programming Languages 🖥️       C · C++ · Python · Java
-    ***  ** ***           **    ****          Hardware 🔩                    ESP32 · Arduino
-        **   ***          ***  **#            Tools 🛠️                       Git · Linux · VS Code · Vercel
-       ***    ****         **                 Normal Languages 🗣️            Tamil · English · Hindi · German
-       ***      ***        **               ───────────────────────────────────────────────────────────────────
-       ***    *** ***#     **                 Goals ⭐
-        ********    ********                  · To be a better person
-                       ***                    · Build things that can help people
-                                              · Live life like the rest
+         **      ****        **               College  🏫                    PSG College of Technology
+         *************       *                Degree   📚                    B.E. CSE
+    **************************                Location 📍                    Coimbatore, Tamil Nadu, India
+  ****    *****              *****          ───────────────────────────────────────────────────────────────────
+  **      ****  ******  ***     ****          Programming Languages 🖥️       C · C++ · Python · Java
+  ***     ****  ******   ***      **          Hardware 🔩                    ESP32 · Arduino
+    ***  ** ***           **    ****          Tools 🛠️                       Git · Linux · VS Code · Vercel
+        **   ***          ***  **#            Normal Languages 🗣️            Tamil · English · Hindi · German
+       ***    ****         **               ───────────────────────────────────────────────────────────────────
+       ***      ***        **                 Goals ⭐
+       ***    *** ***#     **                 · To be a better person
+        ********    ********                  · Build things that can help people
+                       ***                    · Live life like the rest
                                               · Be something/someone that others can look upto
-                                            ───────────────────────────────────────────────────────────────────           
+                                            ───────────────────────────────────────────────────────────────────
 ```
 ---
 
