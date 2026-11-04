@@ -53,13 +53,13 @@ vikash@github
 
 <div align="center">
 
-  <img src="https://github-stats-extended.vercel.app/api?username=Vmos21&show_icons=true&theme=github_dark&hide_border=true" height="170" alt="GitHub Stats"/>
-  &nbsp;&nbsp;
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Vmos21&layout=compact&theme=github_dark&hide_border=true" height="170" alt="Top Languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Vmos21&theme=github-dark-blue&hide_border=true" height="170" alt="GitHub Streak"/>
 
   <br/><br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Vmos21&theme=github-dark-blue&hide_border=true" height="170" alt="GitHub Streak"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=Vmos21&show_icons=true&theme=github_dark&hide_border=true" height="170" alt="GitHub Stats"/>
+  &nbsp;&nbsp;
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Vmos21&layout=compact&theme=github_dark&hide_border=true" height="170" alt="Top Languages"/>
 
 </div>
 
