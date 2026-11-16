@@ -37,6 +37,21 @@ vikash@github
                                               · Be something/someone that others can look upto
                                             ───────────────────────────────────────────────────────────────────
 ```
+
+## 👷‍♂️ Working On
+```
+
+JavaScript                 To debug AI code
+OOPs with Python           To probably train Models and work with Neural Networks in the future
+```
+
+## Future Plans
+```
+React                      To make Web based stuff more fancy
+Flutter                    To develop Mobile based applications
+Docker                     To deploy and probably do some stuff on it gotta do some research on it Acutally
+```
+
 ---
 
 ## 📊 GitHub Stats
@@ -70,5 +85,13 @@ vikash@github
   </a>
 
   <br/>
+
+</div>
+
+<div align="center">
+
+```
+BYE
+```
 
 </div>
