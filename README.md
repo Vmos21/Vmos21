@@ -41,15 +41,15 @@ vikash@github
 ## 👷‍♂️ Working On
 ```
 
-JavaScript                 To debug AI code
-OOPs with Python           To probably train Models and work with Neural Networks in the future
+JavaScript JS                 To debug AI code
+OOPs with Python              To probably train Models and work with Neural Networks in the future
 ```
 
-## Future Plans
+## 🔮 Future Plans
 ```
-React                      To make Web based stuff more fancy
-Flutter                    To develop Mobile based applications
-Docker                     To deploy and probably do some stuff on it gotta do some research on it Acutally
+React                         To make Web based stuff more fancy
+Flutter                       To develop Mobile based applications
+Docker                        To deploy and probably do some stuff on it gotta do some research on it Acutally
 ```
 
 ---
@@ -91,7 +91,12 @@ Docker                     To deploy and probably do some stuff on it gotta do s
 <div align="center">
 
 ```
-BYE
+ ███████╗███████╗███████╗    ██╗   ██╗ █████╗ ██╗
+ ██╔════╝██╔════╝██╔════╝    ╚██╗ ██╔╝██╔══██╗██║
+ ███████╗█████╗  █████╗       ╚████╔╝ ███████║██║
+ ╚════██║██╔══╝  ██╔══╝        ╚██╔╝  ██╔══██║╚═╝
+ ███████║███████╗███████╗       ██║   ██║  ██║██╗
+ ╚══════╝╚══════╝╚══════╝       ╚═╝   ╚═╝  ╚═╝╚═╝
 ```
 
 </div>
