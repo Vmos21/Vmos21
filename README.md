@@ -39,16 +39,6 @@ vikash@github
 ```
 ---
 
-## 🤝 Community & Involvement
-
-```
- 🏛️  The Eye                Technical team member
- 🏗️  Hackathons             Smart India Hackathon - 2026 participant
- 🌍  Open Source            Building and shipping tools in the open for anyone to use
-```
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
