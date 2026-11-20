@@ -46,7 +46,7 @@ OOPs with Python              To probably train Models and work with Neural Netw
 
 ## 🔮 Future Plans
 ```
-React + TypeScript             To make Web based stuff more fancy
+React + TypeScript            To make Web based stuff more fancy
 Flutter                       To develop Mobile based applications
 Docker                        To deploy and probably do some stuff on it gotta do some research on it Acutally
 ```
