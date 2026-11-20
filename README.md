@@ -40,7 +40,6 @@ vikash@github
 
 ## 👷‍♂️ Working On
 ```
-
 JavaScript JS                 To debug AI code
 OOPs with Python              To probably train Models and work with Neural Networks in the future
 ```
